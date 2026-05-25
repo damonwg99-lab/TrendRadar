@@ -1,48 +1,20 @@
-# ========== 一级必看 ==========
-# AI Coding Agent
-AI Coding Agent
-AI 编程助手
-
-# MCP (Model Context Protocol)
 MCP
-Model Context Protocol
-LLM 协议
-
-# OpenCode, ClaudeCode, CodeX
+MCP Server
+AI Agent
+Multi Agent
+Coding Agent
 OpenCode
-ClaudeCode
+CodeGraph
+RAG
+LangGraph
+AutoGen
+OpenHands
+Claude Code
+Cursor
+Qwen
+DeepSeek
+LLM
+AI IDE
+Code Agent
+Agent Framework
 CodeX
-
-# Multi-Agent / Multi-Agent Systems
-Multi-Agent
-多智能体
-多代理
-
-# Code Graph
-Code Graph
-代码图谱
-代码图
-
-# RAG for Code
-RAG for Code
-代码 RAG
-
-# IDE Agent
-IDE Agent
-IDE 智能体
-编辑器 AI
-
-# ========== 二级次重点 ==========
-# Browser Agent
-Browser Agent
-浏览器智能体
-
-# GUI Agent
-GUI Agent
-GUI 智能体
-界面自动化
-
-# Voice Agent
-Voice Agent
-语音智能体
-语音 AI
