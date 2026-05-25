@@ -119,14 +119,17 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - name: Github Blog
-      url: https://github.blog/changelog/feed/
+    - id: "Github Blog"
+      name: "Github Blog"
+      url: "https://github.blog/changelog/feed/"
 
-    - name: HackerNews
-      url: https://hnrss.org/frontpage
-
-    - name: AI Papers
-      url: https://huggingface.co/papers/rss 
+    - id: "HackerNews"
+      name: "HackerNews"
+      url: "https://hnrss.org/frontpage"
+      
+    - id: "AI Papers"
+      name: "AI Papers"
+      url: "https://huggingface.co/papers/rss" 
 
     # 自定义源示例
     # - id: "custom-feed"
