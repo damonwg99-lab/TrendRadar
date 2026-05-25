@@ -119,17 +119,41 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "Github Blog"
-      name: "Github Blog"
+    - id: "HackerNews-AI"
+      name: "HackerNews AI"
+      url: "https://hnrss.org/newest?q=AI"
+
+    - id: "HackerNews-Agent"
+      name: "HackerNews Agent"
+      url: "https://hnrss.org/newest?q=Agent"
+
+    - id: "HackerNews-MCP"
+      name: "HackerNews MCP"
+      url: "https://hnrss.org/newest?q=MCP"
+
+    - id: "HackerNews-LLM"
+      name: "HackerNews LLM"
+      url: "https://hnrss.org/newest?q=LLM"
+
+    - id: "Reddit-LocalLLaMA"
+      name: "Reddit LocalLLaMA"
+      url: "https://www.reddit.com/r/LocalLLaMA/.rss"
+
+    - id: "Reddit-AIAgents"
+      name: "Reddit AI Agents"
+      url: "https://www.reddit.com/r/AI_Agents/.rss"
+
+    - id: "Reddit-OpenSource"
+      name: "Reddit Open Source"
+      url: "https://www.reddit.com/r/opensource/.rss"
+
+    - id: "Github-Changelog"
+      name: "Github Changelog"
       url: "https://github.blog/changelog/feed/"
 
-    - id: "HackerNews"
-      name: "HackerNews"
-      url: "https://hnrss.org/frontpage"
-      
-    - id: "AI Papers"
-      name: "AI Papers"
-      url: "https://huggingface.co/papers/rss" 
+    - id: "HuggingFace-Papers"
+      name: "HuggingFace Papers"
+      url: "https://huggingface.co/papers/rss"
 
     # 自定义源示例
     # - id: "custom-feed"
