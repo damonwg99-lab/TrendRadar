@@ -119,6 +119,13 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "GitHub Trending (Daily)"
+      name: "GitHub Trending (Daily)"
+      url: "https://rsshub.app/github/trending/daily"
+    - id: "GitHub Trending (Weekly AI)"
+      name: "GitHub Trending (Weekly AI)" 
+      url: "https://rsshub.app/github/trending/weekly/ai" 
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
