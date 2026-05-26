@@ -119,21 +119,21 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "HackerNews-AI"
-      name: "HackerNews AI"
-      url: "https://hnrss.org/newest?q=AI"
+    - id: "HN-Coding-Agent"
+      name: "HN Coding Agent"
+      url: "https://hnrss.org/newest?q=Coding+Agent"
 
-    - id: "HackerNews-Agent"
-      name: "HackerNews Agent"
-      url: "https://hnrss.org/newest?q=Agent"
+    - id: "HN-Code-AI"
+      name: "HN Code AI"
+      url: "https://hnrss.org/newest?q=Code+AI"
 
-    - id: "HackerNews-MCP"
-      name: "HackerNews MCP"
+    - id: "HN-MCP"
+      name: "HN MCP"
       url: "https://hnrss.org/newest?q=MCP"
 
-    - id: "HackerNews-LLM"
-      name: "HackerNews LLM"
-      url: "https://hnrss.org/newest?q=LLM"
+    - id: "HN-OpenSource-AI"
+      name: "HN OpenSource AI"
+      url: "https://hnrss.org/newest?q=Open+Source+AI"
 
     - id: "Reddit-LocalLLaMA"
       name: "Reddit LocalLLaMA"
@@ -150,10 +150,6 @@ rss:
     - id: "Github-Changelog"
       name: "Github Changelog"
       url: "https://github.blog/changelog/feed/"
-
-    - id: "HuggingFace-Papers"
-      name: "HuggingFace Papers"
-      url: "https://huggingface.co/papers/rss"
 
     # 自定义源示例
     # - id: "custom-feed"
