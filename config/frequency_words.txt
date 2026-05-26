@@ -1,20 +1,27 @@
+Coding Agent
+Code Agent
+AI IDE
+Code Review
 MCP
 MCP Server
-AI Agent
-Multi Agent
-Coding Agent
 OpenCode
-CodeGraph
-RAG
-LangGraph
-AutoGen
 OpenHands
 Claude Code
 Cursor
-Qwen
-DeepSeek
-LLM
-AI IDE
-Code Agent
+CodeGraph
+LangGraph
+AutoGen
+RAG
+Repository Analysis
+Code Search
+Code Generation
 Agent Framework
+Multi Agent
+Software Engineering AI
+Developer Tool
+IDE Agent
+VSCode AI
+Java AI
+Code Intelligence
+AST
 CodeX
