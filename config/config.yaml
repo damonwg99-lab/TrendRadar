@@ -119,37 +119,45 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "HN-Coding-Agent"
+    # GitHub Trending（AI）
+    - id: "GitHub-Trending-AI"
+      name: "GitHub Trending AI"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/ai.xml"
+
+    # GitHub Trending（Python）
+    - id: "GitHub-Trending-Python"
+      name: "GitHub Trending Python"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml"
+
+    # GitHub Trending（TypeScript）
+    - id: "GitHub-Trending-TS"
+      name: "GitHub Trending TypeScript"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/typescript.xml"
+
+    # HackerNews - Coding Agent
+    - id: "HN-CodingAgent"
       name: "HN Coding Agent"
       url: "https://hnrss.org/newest?q=Coding+Agent"
 
-    - id: "HN-Code-AI"
-      name: "HN Code AI"
-      url: "https://hnrss.org/newest?q=Code+AI"
-
+    # HackerNews - MCP
     - id: "HN-MCP"
       name: "HN MCP"
       url: "https://hnrss.org/newest?q=MCP"
 
-    - id: "HN-OpenSource-AI"
-      name: "HN OpenSource AI"
-      url: "https://hnrss.org/newest?q=Open+Source+AI"
-
+    # Reddit LocalLLaMA
     - id: "Reddit-LocalLLaMA"
       name: "Reddit LocalLLaMA"
       url: "https://www.reddit.com/r/LocalLLaMA/.rss"
 
+    # Reddit AI Agents
     - id: "Reddit-AIAgents"
       name: "Reddit AI Agents"
       url: "https://www.reddit.com/r/AI_Agents/.rss"
 
-    - id: "Reddit-OpenSource"
-      name: "Reddit Open Source"
-      url: "https://www.reddit.com/r/opensource/.rss"
-
-    - id: "Github-Changelog"
-      name: "Github Changelog"
-      url: "https://github.blog/changelog/feed/"
+    # HuggingFace热门论文（保留少量）
+    - id: "HF-Papers"
+      name: "HF Papers"
+      url: "https://huggingface.co/papers/rss"
 
     # 自定义源示例
     # - id: "custom-feed"
