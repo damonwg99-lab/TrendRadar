@@ -1,17 +1,9 @@
-# ===== OpenAI =====
+# ===== 热门AI开发工具 =====
 
 OpenAI @5
-Codex @10
+Codex @5
+Claude @5
 GPT @5
-SDK @5
-API @5
-
-# ===== Anthropic =====
-
-Claude @10
-Claude Code @10
-
-# ===== Coding Agent =====
 
 OpenHands @5
 OpenCode @5
@@ -19,26 +11,37 @@ Cline @5
 Cursor @5
 Aider @5
 
-# ===== Agent =====
-
-MCP @10
-+MCP +Server @5
 LangGraph @5
 AutoGen @5
 CrewAI @5
+MCP @10
 
-# ===== 开发 =====
+# ===== 开发关键词 =====
 
-Coding @10
+AI @10
+Agent @10
 Code @10
+Coding @10
+
+Framework @5
+SDK @5
+Repository @5
 Developer @5
 IDE @5
+
+# ===== 精准组合 =====
+
++Code +Agent @5
++Coding +Agent @5
++MCP +Server @5
 
 # ===== 排除 =====
 
 !Crypto
 !NFT
+!Game
 !Image
 !Video
-!Game
+!Stock
+!Trading
 !广告
