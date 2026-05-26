@@ -119,45 +119,52 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    # GitHub Trending（AI）
-    - id: "GitHub-Trending-AI"
-      name: "GitHub Trending AI"
-      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/ai.xml"
+    # ===== GitHub 开源项目 =====
 
-    # GitHub Trending（Python）
     - id: "GitHub-Trending-Python"
       name: "GitHub Trending Python"
       url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml"
 
-    # GitHub Trending（TypeScript）
-    - id: "GitHub-Trending-TS"
+    - id: "GitHub-Trending-TypeScript"
       name: "GitHub Trending TypeScript"
       url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/typescript.xml"
 
-    # HackerNews - Coding Agent
-    - id: "HN-CodingAgent"
-      name: "HN Coding Agent"
-      url: "https://hnrss.org/newest?q=Coding+Agent"
+    - id: "GitHub-Trending-Go"
+      name: "GitHub Trending Go"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml"
 
-    # HackerNews - MCP
+    - id: "GitHub-Trending-Rust"
+      name: "GitHub Trending Rust"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml"
+
+    # ===== AI 开发生态 =====
+
+    - id: "HN-Codex"
+      name: "HN Codex"
+      url: "https://hnrss.org/newest?q=Codex"
+
+    - id: "HN-Claude"
+      name: "HN Claude"
+      url: "https://hnrss.org/newest?q=Claude"
+
     - id: "HN-MCP"
       name: "HN MCP"
       url: "https://hnrss.org/newest?q=MCP"
 
-    # Reddit LocalLLaMA
-    - id: "Reddit-LocalLLaMA"
-      name: "Reddit LocalLLaMA"
-      url: "https://www.reddit.com/r/LocalLLaMA/.rss"
+    - id: "HN-Coding"
+      name: "HN Coding"
+      url: "https://hnrss.org/newest?q=Coding"
 
-    # Reddit AI Agents
+    - id: "HN-Agent"
+      name: "HN Agent"
+      url: "https://hnrss.org/newest?q=Agent"
+
+    # ===== 社区 =====
+
     - id: "Reddit-AIAgents"
       name: "Reddit AI Agents"
       url: "https://www.reddit.com/r/AI_Agents/.rss"
 
-    # HuggingFace热门论文（保留少量）
-    - id: "HF-Papers"
-      name: "HF Papers"
-      url: "https://huggingface.co/papers/rss"
 
     # 自定义源示例
     # - id: "custom-feed"
