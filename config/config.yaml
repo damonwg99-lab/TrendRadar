@@ -121,6 +121,10 @@ rss:
 
     # ===== GitHub 开源项目 =====
 
+    - id: "GitHub-Trending-All"
+      name: "GitHub Trending All Weekly"
+      url: "https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml"
+    
     - id: "GitHub-Trending-Python"
       name: "GitHub Trending Python"
       url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml"
