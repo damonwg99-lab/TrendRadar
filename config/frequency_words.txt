@@ -1,27 +1,53 @@
-Coding Agent
-Code Agent
-AI IDE
-Code Review
-MCP
-MCP Server
-OpenCode
-OpenHands
-Claude Code
-Cursor
-CodeGraph
-LangGraph
-AutoGen
-RAG
-Repository Analysis
-Code Search
-Code Generation
-Agent Framework
-Multi Agent
-Software Engineering AI
-Developer Tool
-IDE Agent
-VSCode AI
-Java AI
-Code Intelligence
-AST
-CodeX
+# ===== Coding Agent =====
+Coding Agent @5
++Code +Agent @5
++AI +IDE @5
++Developer +Tool @5
+
+# ===== AI Coding工具 =====
+OpenHands @5
+Claude Code @5
+Cursor @5
+OpenCode @5
+Cline @5
+Aider @5
+
+# ===== Agent框架 =====
++Multi +Agent @5
+LangGraph @5
+AutoGen @5
+CrewAI @5
+MCP @5
++MCP +Server @5
+
+# ===== 代码理解/项目分析 =====
+CodeGraph @5
++Repository +Analysis @5
++Code +Search @5
++Code +Generation @5
++Code +Review @5
++Code +Intelligence @5
+AST @5
+
+# ===== Java相关 =====
++Java +AI @5
++Java +Agent @5
++Spring +AI @5
+
+# ===== 排除噪音 =====
+!Crypto
+!NFT
+!Stock
+!Trading
+!Video
+!Image
+!Music
+!Game
+!Marketing
+!Anime
+!Celebrity
+!Prompt Engineering
+!Midjourney
+!Stable Diffusion
+!SEO
+!广告
